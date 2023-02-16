@@ -1,0 +1,11 @@
+html 
+body { margin: 0%; }
+h1{margin: 0%;}
+.header-footer {color: #268274; background-color: #84d198; font-family: sans-serif; text-align: center; margin: 0%;}
+h2{margin: 0%;}
+h3{margin: 0%;}
+section {color: #268274; background-color: #84d198; margin: 0%;}
+
+p{margin: 0%;}
+br{margin: 0%; color: #84d198;}
+#small-text {font-size: 8px}
